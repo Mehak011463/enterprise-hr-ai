@@ -1,0 +1,17 @@
+services:
+  api:
+    build: .
+    ports: ["8000:8000"]
+    environment:
+      HR_ENVIRONMENT: production
+      HR_API_KEY: ${HR_API_KEY}
+    restart: unless-stopped
+  dashboard:
+    build: .
+    command: ["streamlit","run","app/streamlit_app.py","--server.address=0.0.0.0","--server.port=8501"]
+    ports: ["8501:8501"]
+    environment:
+      HR_API_URL: http://api:8000
+      HR_API_KEY: ${HR_API_KEY}
+    depends_on: [api]
+    restart: unless-stopped

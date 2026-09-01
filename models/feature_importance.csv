@@ -1,0 +1,21 @@
+Feature,Importance
+num__JobLevel,0.04749851
+cat__OverTime_Yes,0.046823535
+cat__OverTime_No,0.04355351
+num__StockOptionLevel,0.034921773
+cat__Department_Sales,0.034358945
+num__TotalWorkingYears,0.030524334
+num__YearsWithCurrManager,0.02841145
+cat__JobRole_Sales Executive,0.027267007
+num__YearsAtCompany,0.025864644
+cat__JobRole_Sales Representative,0.023994327
+cat__MaritalStatus_Single,0.02379756
+cat__BusinessTravel_Travel_Frequently,0.022814482
+num__NumCompaniesWorked,0.02277843
+num__MonthlyIncome,0.022751914
+cat__Department_Research & Development,0.02193797
+num__Age,0.02178146
+cat__JobRole_Laboratory Technician,0.021643685
+num__EnvironmentSatisfaction,0.021508507
+cat__JobRole_Research Scientist,0.020623649
+cat__JobRole_Manufacturing Director,0.020174978

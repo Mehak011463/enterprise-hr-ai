@@ -1,0 +1,12 @@
+{
+  "model_name": "Attrition Prediction Model",
+  "version": "v2.0",
+  "algorithm": "XGBoost + ColumnTransformer",
+  "training_date": "2026-09-01",
+  "target": "Attrition",
+  "features": 30,
+  "roc_auc": 0.7791368765612886,
+  "precision": 0.44680851063829785,
+  "recall": 0.44680851063829785,
+  "f1": 0.44680851063829785
+}

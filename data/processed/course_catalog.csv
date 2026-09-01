@@ -1,0 +1,16 @@
+course_name,skill,description,difficulty,duration_hours
+Deep Learning Fundamentals,Deep Learning,Build neural network foundations with practical model training.,Intermediate,30
+PyTorch for ML Engineers,PyTorch,Hands-on PyTorch model development and deployment.,Intermediate,24
+MLOps Production Systems,MLOps,"Deploy, monitor, version, and operate machine learning systems.",Advanced,20
+Docker & Kubernetes Essentials,Docker,Containerize services and learn production orchestration basics.,Intermediate,18
+Cloud AI Engineering,Cloud,Build and deploy AI workloads on modern cloud platforms.,Intermediate,25
+Generative AI & RAG,Generative AI,Build retrieval-augmented generation applications and evaluation workflows.,Advanced,22
+SQL for Analytics,SQL,Query and analyze structured business data with SQL.,Beginner,15
+Python for Data Work,Python,Practical Python for data analysis and automation.,Beginner,20
+Statistics for Data Science,Statistics,Statistics foundations for analytical and machine learning work.,Intermediate,18
+Communication for Technical Professionals,Communication,"Improve presentations, stakeholder communication, and technical storytelling.",All,10
+Business Writing Essentials,Writing,Develop clear professional emails reports and workplace documents.,Beginner,10
+Professional Workplace Writing,Writing,Develop professional writing skills for business communication and workplace documentation.,Intermediate,12
+Microsoft Office Fundamentals,Microsoft Office software,Learn essential Microsoft Office tools for workplace productivity and business tasks.,Beginner,12
+Excel for Business Professionals,Microsoft Office software,Use Excel for business analysis reporting formulas and productivity.,Intermediate,15
+Advanced Microsoft Office Productivity,Microsoft Office software,Master advanced Microsoft Office workflows for professional productivity.,Advanced,18
