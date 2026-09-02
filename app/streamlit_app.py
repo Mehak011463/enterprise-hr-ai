@@ -21,7 +21,7 @@ st.set_page_config(
 
 API = os.getenv(
     "HR_API_URL",
-    "http://127.0.0.1:8000"
+    "https://enterprise-hr-ai-1.onrender.com"
 )
 
 KEY = os.getenv(
